@@ -1,0 +1,1201 @@
+epoch,sentence,originalLabel,predictedLabel,predictedConstruction,result
+1,호랑이가 코끼리를 그려요,0or0,0,agent-first,1
+1,원숭이가 다람쥐를 던져요,0or0,0,agent-first,1
+1,꿀벌이 다람쥐를 칠해요,0or0,0,agent-first,1
+1,꿀벌이 나비를 안아요,0or0,0,agent-first,1
+1,다람쥐가 호랑이를 밀어요,0or0,0,agent-first,1
+1,개구리가 원숭이를 들어요,0or0,0,agent-first,1
+1,코끼리가 호랑이 그려요,0or0,0,agent-first,1
+1,다람쥐가 원숭이 던져요,0or0,0,agent-first,1
+1,다람쥐가 꿀벌 칠해요,0or0,0,agent-first,1
+1,나비가 꿀벌 안아요,0or0,0,agent-first,1
+1,호랑이가 다람쥐 밀어요,0or0,0,agent-first,1
+1,원숭이가 개구리 들어요,0or0,0,agent-first,1
+1,코끼리 호랑이를 그려요,0or0,0,agent-first,1
+1,다람쥐 원숭이를 던져요,0or0,0,agent-first,1
+1,다람쥐 꿀벌을 칠해요,0or0,0,agent-first,1
+1,나비 꿀벌을 안아요,0or0,0,agent-first,1
+1,호랑이 다람쥐를 밀어요,0or0,0,agent-first,1
+1,원숭이 개구리를 들어요,0or0,0,agent-first,1
+1,호랑이를 코끼리가 그려요,1or1,0,agent-first,0
+1,원숭이를 다람쥐가 던져요,1or1,0,agent-first,0
+1,꿀벌을 다람쥐가 칠해요,1or1,0,agent-first,0
+1,꿀벌을 나비가 안아요,1or1,0,agent-first,0
+1,다람쥐를 호랑이가 밀어요,1or1,1,theme-first,1
+1,개구리를 원숭이가 들어요,1or1,0,agent-first,0
+1,코끼리 호랑이가 그려요,1or1,0,agent-first,0
+1,다람쥐 원숭이가 던져요,1or1,0,agent-first,0
+1,다람쥐 꿀벌이 칠해요,1or1,0,agent-first,0
+1,나비 꿀벌이 안아요,1or1,1,theme-first,1
+1,호랑이 다람쥐가 밀어요,1or1,0,agent-first,0
+1,원숭이 개구리가 들어요,1or1,0,agent-first,0
+1,코끼리를 호랑이 그려요,1or1,0,agent-first,0
+1,다람쥐를 원숭이 던져요,1or1,0,agent-first,0
+1,다람쥐를 꿀벌 칠해요,1or1,0,agent-first,0
+1,나비를 꿀벌 안아요,1or1,0,agent-first,0
+1,호랑이를 다람쥐 밀어요,1or1,0,agent-first,0
+1,원숭이를 개구리 들어요,1or1,1,theme-first,1
+1,호랑이 코끼리 그려요 ,0or0,0,agent-first,1
+1,원숭이 다람쥐 던져요 ,0or0,0,agent-first,1
+1,꿀벌 다람쥐 칠해요 ,0or0,0,agent-first,1
+1,꿀벌 나비 안아요 ,0or0,0,agent-first,1
+1,다람쥐 호랑이 밀어요 ,0or0,0,agent-first,1
+1,개구리 원숭이 들어요 ,0or0,1,theme-first,0
+1,코끼리가 그려요,0or0,0,agent-first,1
+1,다람쥐가 던져요,0or0,0,agent-first,1
+1,다람쥐가 칠해요,0or0,0,agent-first,1
+1,나비가 안아요,0or0,0,agent-first,1
+1,호랑이가 밀어요,0or0,0,agent-first,1
+1,원숭이가 들어요,0or0,0,agent-first,1
+1,코끼리를 그려요,1or1,1,theme-first,1
+1,다람쥐를 던져요,1or1,1,theme-first,1
+1,다람쥐를 칠해요,1or1,0,agent-first,0
+1,나비를 안아요,1or1,0,agent-first,0
+1,호랑이를 밀어요,1or1,0,agent-first,0
+1,원숭이를 들어요,1or1,1,theme-first,1
+1,호랑이 그려요,0or0,1,theme-first,0
+1,원숭이 던져요,0or0,1,theme-first,0
+1,꿀벌 칠해요,0or0,0,agent-first,1
+1,꿀벌 안아요,0or0,0,agent-first,1
+1,다람쥐 밀어요,0or0,0,agent-first,1
+1,개구리 들어요,0or0,1,theme-first,0
+1,고양이가 강아지한테 차여요,1or1,0,agent-first,0
+1,다람쥐가 원숭이한테 업혀요,1or1,0,agent-first,0
+1,사자가 호랑이한테 물려요,1or1,0,agent-first,0
+1,꿀벌이 나비한테 찔려요,1or1,0,agent-first,0
+1,얼룩말이 돼지한테 밟혀요,1or1,1,theme-first,1
+1,코끼리가 호랑이한테 꼬집혀요,1or1,0,agent-first,0
+1,강아지가 고양이 차여요,1or1,0,agent-first,0
+1,원숭이가 다람쥐 업혀요,1or1,0,agent-first,0
+1,호랑이가 사자 물려요,1or1,0,agent-first,0
+1,나비가 꿀벌 찔려요,1or1,0,agent-first,0
+1,돼지가 얼룩말 밟혀요,1or1,1,theme-first,1
+1,호랑이가 코끼리 꼬집혀요,1or1,1,theme-first,1
+1,강아지 고양이한테 차여요,1or1,0,agent-first,0
+1,원숭이 다람쥐한테 업혀요,1or1,0,agent-first,0
+1,호랑이 사자한테 물려요,1or1,0,agent-first,0
+1,나비 꿀벌한테 찔려요,1or1,0,agent-first,0
+1,돼지 얼룩말한테 밟혀요,1or1,0,agent-first,0
+1,호랑이 코끼리한테 꼬집혀요,1or1,0,agent-first,0
+1,고양이한테 강아지가 차여요,0or0,0,agent-first,1
+1,다람쥐한테 원숭이가 업혀요,0or0,0,agent-first,1
+1,사자한테 호랑이가 물려요,0or0,0,agent-first,1
+1,꿀벌한테 나비가 찔려요,0or0,0,agent-first,1
+1,얼룩말한테 돼지가 밟혀요,0or0,0,agent-first,1
+1,코끼리한테 호랑이가 꼬집혀요,0or0,0,agent-first,1
+1,강아지 고양이가 차여요,0or0,0,agent-first,1
+1,원숭이 다람쥐가 업혀요,0or0,1,theme-first,0
+1,호랑이 사자가 물려요,0or0,0,agent-first,1
+1,나비 꿀벌이 찔려요,0or0,1,theme-first,0
+1,돼지 얼룩말이 밟혀요,0or0,1,theme-first,0
+1,호랑이 코끼리가 꼬집혀요,0or0,0,agent-first,1
+1,강아지한테 고양이 차여요,0or0,0,agent-first,1
+1,원숭이한테 다람쥐 업혀요,0or0,0,agent-first,1
+1,호랑이한테 사자 물려요,0or0,0,agent-first,1
+1,나비한테 꿀벌 찔려요,0or0,0,agent-first,1
+1,돼지한테 얼룩말 밟혀요,0or0,1,theme-first,0
+1,호랑이한테 코끼리 꼬집혀요,0or0,0,agent-first,1
+1,고양이 강아지 차여요,0or0,1,theme-first,0
+1,다람쥐 원숭이 업혀요,0or0,0,agent-first,1
+1,사자 호랑이 물려요,0or0,0,agent-first,1
+1,꿀벌 나비 찔려요,0or0,0,agent-first,1
+1,얼룩말 돼지 밟혀요,0or0,1,theme-first,0
+1,코끼리 호랑이 꼬집혀요,0or0,0,agent-first,1
+1,강아지가 차여요,1or1,0,agent-first,0
+1,원숭이가 업혀요,1or1,0,agent-first,0
+1,호랑이가 물려요,1or1,1,theme-first,1
+1,나비가 찔려요,1or1,1,theme-first,1
+1,돼지가 밟혀요,1or1,0,agent-first,0
+1,호랑이가 꼬집혀요,1or1,0,agent-first,0
+1,강아지한테 차여요,0or0,0,agent-first,1
+1,원숭이한테 업혀요,0or0,0,agent-first,1
+1,호랑이한테 물려요,0or0,0,agent-first,1
+1,나비한테 찔려요,0or0,0,agent-first,1
+1,돼지한테 밟혀요,0or0,0,agent-first,1
+1,호랑이한테 꼬집혀요,0or0,0,agent-first,1
+1,고양이 차여요,0or0,1,theme-first,0
+1,다람쥐 업혀요,0or0,0,agent-first,1
+1,사자 물려요,0or0,0,agent-first,1
+1,꿀벌 찔려요,0or0,0,agent-first,1
+1,얼룩말 밟혀요,0or0,1,theme-first,0
+1,코끼리 꼬집혀요,0or0,0,agent-first,1
+2,호랑이가 코끼리를 그려요,0or0,0,agent-first,1
+2,원숭이가 다람쥐를 던져요,0or0,0,agent-first,1
+2,꿀벌이 다람쥐를 칠해요,0or0,0,agent-first,1
+2,꿀벌이 나비를 안아요,0or0,0,agent-first,1
+2,다람쥐가 호랑이를 밀어요,0or0,0,agent-first,1
+2,개구리가 원숭이를 들어요,0or0,0,agent-first,1
+2,코끼리가 호랑이 그려요,0or0,0,agent-first,1
+2,다람쥐가 원숭이 던져요,0or0,0,agent-first,1
+2,다람쥐가 꿀벌 칠해요,0or0,0,agent-first,1
+2,나비가 꿀벌 안아요,0or0,0,agent-first,1
+2,호랑이가 다람쥐 밀어요,0or0,0,agent-first,1
+2,원숭이가 개구리 들어요,0or0,0,agent-first,1
+2,코끼리 호랑이를 그려요,0or0,1,theme-first,0
+2,다람쥐 원숭이를 던져요,0or0,0,agent-first,1
+2,다람쥐 꿀벌을 칠해요,0or0,0,agent-first,1
+2,나비 꿀벌을 안아요,0or0,1,theme-first,0
+2,호랑이 다람쥐를 밀어요,0or0,1,theme-first,0
+2,원숭이 개구리를 들어요,0or0,1,theme-first,0
+2,호랑이를 코끼리가 그려요,1or1,0,agent-first,0
+2,원숭이를 다람쥐가 던져요,1or1,0,agent-first,0
+2,꿀벌을 다람쥐가 칠해요,1or1,1,theme-first,1
+2,꿀벌을 나비가 안아요,1or1,1,theme-first,1
+2,다람쥐를 호랑이가 밀어요,1or1,1,theme-first,1
+2,개구리를 원숭이가 들어요,1or1,0,agent-first,0
+2,코끼리 호랑이가 그려요,1or1,0,agent-first,0
+2,다람쥐 원숭이가 던져요,1or1,0,agent-first,0
+2,다람쥐 꿀벌이 칠해요,1or1,0,agent-first,0
+2,나비 꿀벌이 안아요,1or1,1,theme-first,1
+2,호랑이 다람쥐가 밀어요,1or1,0,agent-first,0
+2,원숭이 개구리가 들어요,1or1,0,agent-first,0
+2,코끼리를 호랑이 그려요,1or1,1,theme-first,1
+2,다람쥐를 원숭이 던져요,1or1,1,theme-first,1
+2,다람쥐를 꿀벌 칠해요,1or1,1,theme-first,1
+2,나비를 꿀벌 안아요,1or1,1,theme-first,1
+2,호랑이를 다람쥐 밀어요,1or1,0,agent-first,0
+2,원숭이를 개구리 들어요,1or1,1,theme-first,1
+2,호랑이 코끼리 그려요 ,0or0,1,theme-first,0
+2,원숭이 다람쥐 던져요 ,0or0,1,theme-first,0
+2,꿀벌 다람쥐 칠해요 ,0or0,1,theme-first,0
+2,꿀벌 나비 안아요 ,0or0,1,theme-first,0
+2,다람쥐 호랑이 밀어요 ,0or0,0,agent-first,1
+2,개구리 원숭이 들어요 ,0or0,1,theme-first,0
+2,코끼리가 그려요,0or0,0,agent-first,1
+2,다람쥐가 던져요,0or0,0,agent-first,1
+2,다람쥐가 칠해요,0or0,0,agent-first,1
+2,나비가 안아요,0or0,0,agent-first,1
+2,호랑이가 밀어요,0or0,0,agent-first,1
+2,원숭이가 들어요,0or0,0,agent-first,1
+2,코끼리를 그려요,1or1,1,theme-first,1
+2,다람쥐를 던져요,1or1,1,theme-first,1
+2,다람쥐를 칠해요,1or1,1,theme-first,1
+2,나비를 안아요,1or1,1,theme-first,1
+2,호랑이를 밀어요,1or1,1,theme-first,1
+2,원숭이를 들어요,1or1,1,theme-first,1
+2,호랑이 그려요,0or0,1,theme-first,0
+2,원숭이 던져요,0or0,1,theme-first,0
+2,꿀벌 칠해요,0or0,1,theme-first,0
+2,꿀벌 안아요,0or0,1,theme-first,0
+2,다람쥐 밀어요,0or0,0,agent-first,1
+2,개구리 들어요,0or0,1,theme-first,0
+2,고양이가 강아지한테 차여요,1or1,0,agent-first,0
+2,다람쥐가 원숭이한테 업혀요,1or1,0,agent-first,0
+2,사자가 호랑이한테 물려요,1or1,0,agent-first,0
+2,꿀벌이 나비한테 찔려요,1or1,0,agent-first,0
+2,얼룩말이 돼지한테 밟혀요,1or1,1,theme-first,1
+2,코끼리가 호랑이한테 꼬집혀요,1or1,0,agent-first,0
+2,강아지가 고양이 차여요,1or1,0,agent-first,0
+2,원숭이가 다람쥐 업혀요,1or1,0,agent-first,0
+2,호랑이가 사자 물려요,1or1,0,agent-first,0
+2,나비가 꿀벌 찔려요,1or1,0,agent-first,0
+2,돼지가 얼룩말 밟혀요,1or1,0,agent-first,0
+2,호랑이가 코끼리 꼬집혀요,1or1,0,agent-first,0
+2,강아지 고양이한테 차여요,1or1,0,agent-first,0
+2,원숭이 다람쥐한테 업혀요,1or1,0,agent-first,0
+2,호랑이 사자한테 물려요,1or1,0,agent-first,0
+2,나비 꿀벌한테 찔려요,1or1,0,agent-first,0
+2,돼지 얼룩말한테 밟혀요,1or1,0,agent-first,0
+2,호랑이 코끼리한테 꼬집혀요,1or1,1,theme-first,1
+2,고양이한테 강아지가 차여요,0or0,0,agent-first,1
+2,다람쥐한테 원숭이가 업혀요,0or0,0,agent-first,1
+2,사자한테 호랑이가 물려요,0or0,0,agent-first,1
+2,꿀벌한테 나비가 찔려요,0or0,0,agent-first,1
+2,얼룩말한테 돼지가 밟혀요,0or0,0,agent-first,1
+2,코끼리한테 호랑이가 꼬집혀요,0or0,1,theme-first,0
+2,강아지 고양이가 차여요,0or0,0,agent-first,1
+2,원숭이 다람쥐가 업혀요,0or0,0,agent-first,1
+2,호랑이 사자가 물려요,0or0,0,agent-first,1
+2,나비 꿀벌이 찔려요,0or0,1,theme-first,0
+2,돼지 얼룩말이 밟혀요,0or0,1,theme-first,0
+2,호랑이 코끼리가 꼬집혀요,0or0,0,agent-first,1
+2,강아지한테 고양이 차여요,0or0,0,agent-first,1
+2,원숭이한테 다람쥐 업혀요,0or0,0,agent-first,1
+2,호랑이한테 사자 물려요,0or0,0,agent-first,1
+2,나비한테 꿀벌 찔려요,0or0,0,agent-first,1
+2,돼지한테 얼룩말 밟혀요,0or0,1,theme-first,0
+2,호랑이한테 코끼리 꼬집혀요,0or0,0,agent-first,1
+2,고양이 강아지 차여요,0or0,1,theme-first,0
+2,다람쥐 원숭이 업혀요,0or0,0,agent-first,1
+2,사자 호랑이 물려요,0or0,0,agent-first,1
+2,꿀벌 나비 찔려요,0or0,1,theme-first,0
+2,얼룩말 돼지 밟혀요,0or0,1,theme-first,0
+2,코끼리 호랑이 꼬집혀요,0or0,1,theme-first,0
+2,강아지가 차여요,1or1,0,agent-first,0
+2,원숭이가 업혀요,1or1,0,agent-first,0
+2,호랑이가 물려요,1or1,0,agent-first,0
+2,나비가 찔려요,1or1,0,agent-first,0
+2,돼지가 밟혀요,1or1,0,agent-first,0
+2,호랑이가 꼬집혀요,1or1,0,agent-first,0
+2,강아지한테 차여요,0or0,0,agent-first,1
+2,원숭이한테 업혀요,0or0,0,agent-first,1
+2,호랑이한테 물려요,0or0,1,theme-first,0
+2,나비한테 찔려요,0or0,0,agent-first,1
+2,돼지한테 밟혀요,0or0,1,theme-first,0
+2,호랑이한테 꼬집혀요,0or0,0,agent-first,1
+2,고양이 차여요,0or0,1,theme-first,0
+2,다람쥐 업혀요,0or0,0,agent-first,1
+2,사자 물려요,0or0,0,agent-first,1
+2,꿀벌 찔려요,0or0,1,theme-first,0
+2,얼룩말 밟혀요,0or0,1,theme-first,0
+2,코끼리 꼬집혀요,0or0,1,theme-first,0
+3,호랑이가 코끼리를 그려요,0or0,0,agent-first,1
+3,원숭이가 다람쥐를 던져요,0or0,0,agent-first,1
+3,꿀벌이 다람쥐를 칠해요,0or0,0,agent-first,1
+3,꿀벌이 나비를 안아요,0or0,0,agent-first,1
+3,다람쥐가 호랑이를 밀어요,0or0,0,agent-first,1
+3,개구리가 원숭이를 들어요,0or0,0,agent-first,1
+3,코끼리가 호랑이 그려요,0or0,0,agent-first,1
+3,다람쥐가 원숭이 던져요,0or0,0,agent-first,1
+3,다람쥐가 꿀벌 칠해요,0or0,0,agent-first,1
+3,나비가 꿀벌 안아요,0or0,0,agent-first,1
+3,호랑이가 다람쥐 밀어요,0or0,0,agent-first,1
+3,원숭이가 개구리 들어요,0or0,0,agent-first,1
+3,코끼리 호랑이를 그려요,0or0,0,agent-first,1
+3,다람쥐 원숭이를 던져요,0or0,1,theme-first,0
+3,다람쥐 꿀벌을 칠해요,0or0,0,agent-first,1
+3,나비 꿀벌을 안아요,0or0,0,agent-first,1
+3,호랑이 다람쥐를 밀어요,0or0,0,agent-first,1
+3,원숭이 개구리를 들어요,0or0,0,agent-first,1
+3,호랑이를 코끼리가 그려요,1or1,0,agent-first,0
+3,원숭이를 다람쥐가 던져요,1or1,0,agent-first,0
+3,꿀벌을 다람쥐가 칠해요,1or1,0,agent-first,0
+3,꿀벌을 나비가 안아요,1or1,0,agent-first,0
+3,다람쥐를 호랑이가 밀어요,1or1,0,agent-first,0
+3,개구리를 원숭이가 들어요,1or1,0,agent-first,0
+3,코끼리 호랑이가 그려요,1or1,0,agent-first,0
+3,다람쥐 원숭이가 던져요,1or1,0,agent-first,0
+3,다람쥐 꿀벌이 칠해요,1or1,0,agent-first,0
+3,나비 꿀벌이 안아요,1or1,0,agent-first,0
+3,호랑이 다람쥐가 밀어요,1or1,0,agent-first,0
+3,원숭이 개구리가 들어요,1or1,0,agent-first,0
+3,코끼리를 호랑이 그려요,1or1,0,agent-first,0
+3,다람쥐를 원숭이 던져요,1or1,1,theme-first,1
+3,다람쥐를 꿀벌 칠해요,1or1,0,agent-first,0
+3,나비를 꿀벌 안아요,1or1,0,agent-first,0
+3,호랑이를 다람쥐 밀어요,1or1,0,agent-first,0
+3,원숭이를 개구리 들어요,1or1,0,agent-first,0
+3,호랑이 코끼리 그려요 ,0or0,0,agent-first,1
+3,원숭이 다람쥐 던져요 ,0or0,0,agent-first,1
+3,꿀벌 다람쥐 칠해요 ,0or0,0,agent-first,1
+3,꿀벌 나비 안아요 ,0or0,0,agent-first,1
+3,다람쥐 호랑이 밀어요 ,0or0,0,agent-first,1
+3,개구리 원숭이 들어요 ,0or0,0,agent-first,1
+3,코끼리가 그려요,0or0,0,agent-first,1
+3,다람쥐가 던져요,0or0,1,theme-first,0
+3,다람쥐가 칠해요,0or0,0,agent-first,1
+3,나비가 안아요,0or0,0,agent-first,1
+3,호랑이가 밀어요,0or0,0,agent-first,1
+3,원숭이가 들어요,0or0,0,agent-first,1
+3,코끼리를 그려요,1or1,0,agent-first,0
+3,다람쥐를 던져요,1or1,1,theme-first,1
+3,다람쥐를 칠해요,1or1,0,agent-first,0
+3,나비를 안아요,1or1,0,agent-first,0
+3,호랑이를 밀어요,1or1,0,agent-first,0
+3,원숭이를 들어요,1or1,0,agent-first,0
+3,호랑이 그려요,0or0,0,agent-first,1
+3,원숭이 던져요,0or0,1,theme-first,0
+3,꿀벌 칠해요,0or0,0,agent-first,1
+3,꿀벌 안아요,0or0,0,agent-first,1
+3,다람쥐 밀어요,0or0,0,agent-first,1
+3,개구리 들어요,0or0,0,agent-first,1
+3,고양이가 강아지한테 차여요,1or1,0,agent-first,0
+3,다람쥐가 원숭이한테 업혀요,1or1,0,agent-first,0
+3,사자가 호랑이한테 물려요,1or1,0,agent-first,0
+3,꿀벌이 나비한테 찔려요,1or1,0,agent-first,0
+3,얼룩말이 돼지한테 밟혀요,1or1,1,theme-first,1
+3,코끼리가 호랑이한테 꼬집혀요,1or1,0,agent-first,0
+3,강아지가 고양이 차여요,1or1,0,agent-first,0
+3,원숭이가 다람쥐 업혀요,1or1,0,agent-first,0
+3,호랑이가 사자 물려요,1or1,0,agent-first,0
+3,나비가 꿀벌 찔려요,1or1,0,agent-first,0
+3,돼지가 얼룩말 밟혀요,1or1,0,agent-first,0
+3,호랑이가 코끼리 꼬집혀요,1or1,0,agent-first,0
+3,강아지 고양이한테 차여요,1or1,0,agent-first,0
+3,원숭이 다람쥐한테 업혀요,1or1,0,agent-first,0
+3,호랑이 사자한테 물려요,1or1,0,agent-first,0
+3,나비 꿀벌한테 찔려요,1or1,0,agent-first,0
+3,돼지 얼룩말한테 밟혀요,1or1,0,agent-first,0
+3,호랑이 코끼리한테 꼬집혀요,1or1,1,theme-first,1
+3,고양이한테 강아지가 차여요,0or0,0,agent-first,1
+3,다람쥐한테 원숭이가 업혀요,0or0,0,agent-first,1
+3,사자한테 호랑이가 물려요,0or0,0,agent-first,1
+3,꿀벌한테 나비가 찔려요,0or0,0,agent-first,1
+3,얼룩말한테 돼지가 밟혀요,0or0,0,agent-first,1
+3,코끼리한테 호랑이가 꼬집혀요,0or0,0,agent-first,1
+3,강아지 고양이가 차여요,0or0,0,agent-first,1
+3,원숭이 다람쥐가 업혀요,0or0,0,agent-first,1
+3,호랑이 사자가 물려요,0or0,0,agent-first,1
+3,나비 꿀벌이 찔려요,0or0,0,agent-first,1
+3,돼지 얼룩말이 밟혀요,0or0,1,theme-first,0
+3,호랑이 코끼리가 꼬집혀요,0or0,0,agent-first,1
+3,강아지한테 고양이 차여요,0or0,0,agent-first,1
+3,원숭이한테 다람쥐 업혀요,0or0,0,agent-first,1
+3,호랑이한테 사자 물려요,0or0,0,agent-first,1
+3,나비한테 꿀벌 찔려요,0or0,0,agent-first,1
+3,돼지한테 얼룩말 밟혀요,0or0,1,theme-first,0
+3,호랑이한테 코끼리 꼬집혀요,0or0,0,agent-first,1
+3,고양이 강아지 차여요,0or0,0,agent-first,1
+3,다람쥐 원숭이 업혀요,0or0,0,agent-first,1
+3,사자 호랑이 물려요,0or0,0,agent-first,1
+3,꿀벌 나비 찔려요,0or0,1,theme-first,0
+3,얼룩말 돼지 밟혀요,0or0,0,agent-first,1
+3,코끼리 호랑이 꼬집혀요,0or0,0,agent-first,1
+3,강아지가 차여요,1or1,0,agent-first,0
+3,원숭이가 업혀요,1or1,0,agent-first,0
+3,호랑이가 물려요,1or1,0,agent-first,0
+3,나비가 찔려요,1or1,1,theme-first,1
+3,돼지가 밟혀요,1or1,0,agent-first,0
+3,호랑이가 꼬집혀요,1or1,0,agent-first,0
+3,강아지한테 차여요,0or0,0,agent-first,1
+3,원숭이한테 업혀요,0or0,0,agent-first,1
+3,호랑이한테 물려요,0or0,0,agent-first,1
+3,나비한테 찔려요,0or0,1,theme-first,0
+3,돼지한테 밟혀요,0or0,1,theme-first,0
+3,호랑이한테 꼬집혀요,0or0,0,agent-first,1
+3,고양이 차여요,0or0,0,agent-first,1
+3,다람쥐 업혀요,0or0,0,agent-first,1
+3,사자 물려요,0or0,1,theme-first,0
+3,꿀벌 찔려요,0or0,1,theme-first,0
+3,얼룩말 밟혀요,0or0,1,theme-first,0
+3,코끼리 꼬집혀요,0or0,1,theme-first,0
+4,호랑이가 코끼리를 그려요,0or0,0,agent-first,1
+4,원숭이가 다람쥐를 던져요,0or0,0,agent-first,1
+4,꿀벌이 다람쥐를 칠해요,0or0,0,agent-first,1
+4,꿀벌이 나비를 안아요,0or0,0,agent-first,1
+4,다람쥐가 호랑이를 밀어요,0or0,0,agent-first,1
+4,개구리가 원숭이를 들어요,0or0,0,agent-first,1
+4,코끼리가 호랑이 그려요,0or0,0,agent-first,1
+4,다람쥐가 원숭이 던져요,0or0,0,agent-first,1
+4,다람쥐가 꿀벌 칠해요,0or0,0,agent-first,1
+4,나비가 꿀벌 안아요,0or0,0,agent-first,1
+4,호랑이가 다람쥐 밀어요,0or0,0,agent-first,1
+4,원숭이가 개구리 들어요,0or0,0,agent-first,1
+4,코끼리 호랑이를 그려요,0or0,1,theme-first,0
+4,다람쥐 원숭이를 던져요,0or0,0,agent-first,1
+4,다람쥐 꿀벌을 칠해요,0or0,0,agent-first,1
+4,나비 꿀벌을 안아요,0or0,1,theme-first,0
+4,호랑이 다람쥐를 밀어요,0or0,1,theme-first,0
+4,원숭이 개구리를 들어요,0or0,1,theme-first,0
+4,호랑이를 코끼리가 그려요,1or1,0,agent-first,0
+4,원숭이를 다람쥐가 던져요,1or1,0,agent-first,0
+4,꿀벌을 다람쥐가 칠해요,1or1,0,agent-first,0
+4,꿀벌을 나비가 안아요,1or1,0,agent-first,0
+4,다람쥐를 호랑이가 밀어요,1or1,0,agent-first,0
+4,개구리를 원숭이가 들어요,1or1,0,agent-first,0
+4,코끼리 호랑이가 그려요,1or1,0,agent-first,0
+4,다람쥐 원숭이가 던져요,1or1,0,agent-first,0
+4,다람쥐 꿀벌이 칠해요,1or1,0,agent-first,0
+4,나비 꿀벌이 안아요,1or1,0,agent-first,0
+4,호랑이 다람쥐가 밀어요,1or1,0,agent-first,0
+4,원숭이 개구리가 들어요,1or1,0,agent-first,0
+4,코끼리를 호랑이 그려요,1or1,1,theme-first,1
+4,다람쥐를 원숭이 던져요,1or1,1,theme-first,1
+4,다람쥐를 꿀벌 칠해요,1or1,1,theme-first,1
+4,나비를 꿀벌 안아요,1or1,1,theme-first,1
+4,호랑이를 다람쥐 밀어요,1or1,0,agent-first,0
+4,원숭이를 개구리 들어요,1or1,1,theme-first,1
+4,호랑이 코끼리 그려요 ,0or0,1,theme-first,0
+4,원숭이 다람쥐 던져요 ,0or0,0,agent-first,1
+4,꿀벌 다람쥐 칠해요 ,0or0,1,theme-first,0
+4,꿀벌 나비 안아요 ,0or0,1,theme-first,0
+4,다람쥐 호랑이 밀어요 ,0or0,0,agent-first,1
+4,개구리 원숭이 들어요 ,0or0,1,theme-first,0
+4,코끼리가 그려요,0or0,0,agent-first,1
+4,다람쥐가 던져요,0or0,0,agent-first,1
+4,다람쥐가 칠해요,0or0,0,agent-first,1
+4,나비가 안아요,0or0,0,agent-first,1
+4,호랑이가 밀어요,0or0,0,agent-first,1
+4,원숭이가 들어요,0or0,0,agent-first,1
+4,코끼리를 그려요,1or1,1,theme-first,1
+4,다람쥐를 던져요,1or1,1,theme-first,1
+4,다람쥐를 칠해요,1or1,1,theme-first,1
+4,나비를 안아요,1or1,1,theme-first,1
+4,호랑이를 밀어요,1or1,1,theme-first,1
+4,원숭이를 들어요,1or1,1,theme-first,1
+4,호랑이 그려요,0or0,1,theme-first,0
+4,원숭이 던져요,0or0,1,theme-first,0
+4,꿀벌 칠해요,0or0,1,theme-first,0
+4,꿀벌 안아요,0or0,1,theme-first,0
+4,다람쥐 밀어요,0or0,0,agent-first,1
+4,개구리 들어요,0or0,1,theme-first,0
+4,고양이가 강아지한테 차여요,1or1,0,agent-first,0
+4,다람쥐가 원숭이한테 업혀요,1or1,0,agent-first,0
+4,사자가 호랑이한테 물려요,1or1,0,agent-first,0
+4,꿀벌이 나비한테 찔려요,1or1,0,agent-first,0
+4,얼룩말이 돼지한테 밟혀요,1or1,1,theme-first,1
+4,코끼리가 호랑이한테 꼬집혀요,1or1,0,agent-first,0
+4,강아지가 고양이 차여요,1or1,0,agent-first,0
+4,원숭이가 다람쥐 업혀요,1or1,0,agent-first,0
+4,호랑이가 사자 물려요,1or1,0,agent-first,0
+4,나비가 꿀벌 찔려요,1or1,0,agent-first,0
+4,돼지가 얼룩말 밟혀요,1or1,0,agent-first,0
+4,호랑이가 코끼리 꼬집혀요,1or1,0,agent-first,0
+4,강아지 고양이한테 차여요,1or1,1,theme-first,1
+4,원숭이 다람쥐한테 업혀요,1or1,0,agent-first,0
+4,호랑이 사자한테 물려요,1or1,1,theme-first,1
+4,나비 꿀벌한테 찔려요,1or1,1,theme-first,1
+4,돼지 얼룩말한테 밟혀요,1or1,0,agent-first,0
+4,호랑이 코끼리한테 꼬집혀요,1or1,1,theme-first,1
+4,고양이한테 강아지가 차여요,0or0,0,agent-first,1
+4,다람쥐한테 원숭이가 업혀요,0or0,0,agent-first,1
+4,사자한테 호랑이가 물려요,0or0,0,agent-first,1
+4,꿀벌한테 나비가 찔려요,0or0,1,theme-first,0
+4,얼룩말한테 돼지가 밟혀요,0or0,0,agent-first,1
+4,코끼리한테 호랑이가 꼬집혀요,0or0,0,agent-first,1
+4,강아지 고양이가 차여요,0or0,0,agent-first,1
+4,원숭이 다람쥐가 업혀요,0or0,0,agent-first,1
+4,호랑이 사자가 물려요,0or0,0,agent-first,1
+4,나비 꿀벌이 찔려요,0or0,1,theme-first,0
+4,돼지 얼룩말이 밟혀요,0or0,1,theme-first,0
+4,호랑이 코끼리가 꼬집혀요,0or0,1,theme-first,0
+4,강아지한테 고양이 차여요,0or0,1,theme-first,0
+4,원숭이한테 다람쥐 업혀요,0or0,0,agent-first,1
+4,호랑이한테 사자 물려요,0or0,0,agent-first,1
+4,나비한테 꿀벌 찔려요,0or0,1,theme-first,0
+4,돼지한테 얼룩말 밟혀요,0or0,1,theme-first,0
+4,호랑이한테 코끼리 꼬집혀요,0or0,0,agent-first,1
+4,고양이 강아지 차여요,0or0,1,theme-first,0
+4,다람쥐 원숭이 업혀요,0or0,0,agent-first,1
+4,사자 호랑이 물려요,0or0,0,agent-first,1
+4,꿀벌 나비 찔려요,0or0,1,theme-first,0
+4,얼룩말 돼지 밟혀요,0or0,0,agent-first,1
+4,코끼리 호랑이 꼬집혀요,0or0,1,theme-first,0
+4,강아지가 차여요,1or1,0,agent-first,0
+4,원숭이가 업혀요,1or1,0,agent-first,0
+4,호랑이가 물려요,1or1,0,agent-first,0
+4,나비가 찔려요,1or1,1,theme-first,1
+4,돼지가 밟혀요,1or1,0,agent-first,0
+4,호랑이가 꼬집혀요,1or1,0,agent-first,0
+4,강아지한테 차여요,0or0,1,theme-first,0
+4,원숭이한테 업혀요,0or0,1,theme-first,0
+4,호랑이한테 물려요,0or0,1,theme-first,0
+4,나비한테 찔려요,0or0,1,theme-first,0
+4,돼지한테 밟혀요,0or0,1,theme-first,0
+4,호랑이한테 꼬집혀요,0or0,0,agent-first,1
+4,고양이 차여요,0or0,1,theme-first,0
+4,다람쥐 업혀요,0or0,0,agent-first,1
+4,사자 물려요,0or0,1,theme-first,0
+4,꿀벌 찔려요,0or0,1,theme-first,0
+4,얼룩말 밟혀요,0or0,1,theme-first,0
+4,코끼리 꼬집혀요,0or0,1,theme-first,0
+5,호랑이가 코끼리를 그려요,0or0,0,agent-first,1
+5,원숭이가 다람쥐를 던져요,0or0,0,agent-first,1
+5,꿀벌이 다람쥐를 칠해요,0or0,0,agent-first,1
+5,꿀벌이 나비를 안아요,0or0,0,agent-first,1
+5,다람쥐가 호랑이를 밀어요,0or0,0,agent-first,1
+5,개구리가 원숭이를 들어요,0or0,0,agent-first,1
+5,코끼리가 호랑이 그려요,0or0,0,agent-first,1
+5,다람쥐가 원숭이 던져요,0or0,0,agent-first,1
+5,다람쥐가 꿀벌 칠해요,0or0,0,agent-first,1
+5,나비가 꿀벌 안아요,0or0,0,agent-first,1
+5,호랑이가 다람쥐 밀어요,0or0,0,agent-first,1
+5,원숭이가 개구리 들어요,0or0,0,agent-first,1
+5,코끼리 호랑이를 그려요,0or0,1,theme-first,0
+5,다람쥐 원숭이를 던져요,0or0,0,agent-first,1
+5,다람쥐 꿀벌을 칠해요,0or0,0,agent-first,1
+5,나비 꿀벌을 안아요,0or0,1,theme-first,0
+5,호랑이 다람쥐를 밀어요,0or0,1,theme-first,0
+5,원숭이 개구리를 들어요,0or0,1,theme-first,0
+5,호랑이를 코끼리가 그려요,1or1,0,agent-first,0
+5,원숭이를 다람쥐가 던져요,1or1,0,agent-first,0
+5,꿀벌을 다람쥐가 칠해요,1or1,0,agent-first,0
+5,꿀벌을 나비가 안아요,1or1,0,agent-first,0
+5,다람쥐를 호랑이가 밀어요,1or1,0,agent-first,0
+5,개구리를 원숭이가 들어요,1or1,0,agent-first,0
+5,코끼리 호랑이가 그려요,1or1,0,agent-first,0
+5,다람쥐 원숭이가 던져요,1or1,0,agent-first,0
+5,다람쥐 꿀벌이 칠해요,1or1,0,agent-first,0
+5,나비 꿀벌이 안아요,1or1,0,agent-first,0
+5,호랑이 다람쥐가 밀어요,1or1,0,agent-first,0
+5,원숭이 개구리가 들어요,1or1,0,agent-first,0
+5,코끼리를 호랑이 그려요,1or1,1,theme-first,1
+5,다람쥐를 원숭이 던져요,1or1,1,theme-first,1
+5,다람쥐를 꿀벌 칠해요,1or1,1,theme-first,1
+5,나비를 꿀벌 안아요,1or1,1,theme-first,1
+5,호랑이를 다람쥐 밀어요,1or1,0,agent-first,0
+5,원숭이를 개구리 들어요,1or1,1,theme-first,1
+5,호랑이 코끼리 그려요 ,0or0,1,theme-first,0
+5,원숭이 다람쥐 던져요 ,0or0,0,agent-first,1
+5,꿀벌 다람쥐 칠해요 ,0or0,0,agent-first,1
+5,꿀벌 나비 안아요 ,0or0,1,theme-first,0
+5,다람쥐 호랑이 밀어요 ,0or0,0,agent-first,1
+5,개구리 원숭이 들어요 ,0or0,1,theme-first,0
+5,코끼리가 그려요,0or0,0,agent-first,1
+5,다람쥐가 던져요,0or0,0,agent-first,1
+5,다람쥐가 칠해요,0or0,0,agent-first,1
+5,나비가 안아요,0or0,0,agent-first,1
+5,호랑이가 밀어요,0or0,0,agent-first,1
+5,원숭이가 들어요,0or0,0,agent-first,1
+5,코끼리를 그려요,1or1,1,theme-first,1
+5,다람쥐를 던져요,1or1,1,theme-first,1
+5,다람쥐를 칠해요,1or1,1,theme-first,1
+5,나비를 안아요,1or1,1,theme-first,1
+5,호랑이를 밀어요,1or1,1,theme-first,1
+5,원숭이를 들어요,1or1,1,theme-first,1
+5,호랑이 그려요,0or0,1,theme-first,0
+5,원숭이 던져요,0or0,1,theme-first,0
+5,꿀벌 칠해요,0or0,1,theme-first,0
+5,꿀벌 안아요,0or0,1,theme-first,0
+5,다람쥐 밀어요,0or0,0,agent-first,1
+5,개구리 들어요,0or0,1,theme-first,0
+5,고양이가 강아지한테 차여요,1or1,0,agent-first,0
+5,다람쥐가 원숭이한테 업혀요,1or1,0,agent-first,0
+5,사자가 호랑이한테 물려요,1or1,0,agent-first,0
+5,꿀벌이 나비한테 찔려요,1or1,0,agent-first,0
+5,얼룩말이 돼지한테 밟혀요,1or1,1,theme-first,1
+5,코끼리가 호랑이한테 꼬집혀요,1or1,0,agent-first,0
+5,강아지가 고양이 차여요,1or1,0,agent-first,0
+5,원숭이가 다람쥐 업혀요,1or1,0,agent-first,0
+5,호랑이가 사자 물려요,1or1,0,agent-first,0
+5,나비가 꿀벌 찔려요,1or1,0,agent-first,0
+5,돼지가 얼룩말 밟혀요,1or1,0,agent-first,0
+5,호랑이가 코끼리 꼬집혀요,1or1,0,agent-first,0
+5,강아지 고양이한테 차여요,1or1,0,agent-first,0
+5,원숭이 다람쥐한테 업혀요,1or1,0,agent-first,0
+5,호랑이 사자한테 물려요,1or1,0,agent-first,0
+5,나비 꿀벌한테 찔려요,1or1,1,theme-first,1
+5,돼지 얼룩말한테 밟혀요,1or1,0,agent-first,0
+5,호랑이 코끼리한테 꼬집혀요,1or1,1,theme-first,1
+5,고양이한테 강아지가 차여요,0or0,0,agent-first,1
+5,다람쥐한테 원숭이가 업혀요,0or0,0,agent-first,1
+5,사자한테 호랑이가 물려요,0or0,0,agent-first,1
+5,꿀벌한테 나비가 찔려요,0or0,0,agent-first,1
+5,얼룩말한테 돼지가 밟혀요,0or0,0,agent-first,1
+5,코끼리한테 호랑이가 꼬집혀요,0or0,0,agent-first,1
+5,강아지 고양이가 차여요,0or0,0,agent-first,1
+5,원숭이 다람쥐가 업혀요,0or0,0,agent-first,1
+5,호랑이 사자가 물려요,0or0,0,agent-first,1
+5,나비 꿀벌이 찔려요,0or0,1,theme-first,0
+5,돼지 얼룩말이 밟혀요,0or0,0,agent-first,1
+5,호랑이 코끼리가 꼬집혀요,0or0,0,agent-first,1
+5,강아지한테 고양이 차여요,0or0,0,agent-first,1
+5,원숭이한테 다람쥐 업혀요,0or0,0,agent-first,1
+5,호랑이한테 사자 물려요,0or0,0,agent-first,1
+5,나비한테 꿀벌 찔려요,0or0,0,agent-first,1
+5,돼지한테 얼룩말 밟혀요,0or0,0,agent-first,1
+5,호랑이한테 코끼리 꼬집혀요,0or0,0,agent-first,1
+5,고양이 강아지 차여요,0or0,1,theme-first,0
+5,다람쥐 원숭이 업혀요,0or0,0,agent-first,1
+5,사자 호랑이 물려요,0or0,0,agent-first,1
+5,꿀벌 나비 찔려요,0or0,1,theme-first,0
+5,얼룩말 돼지 밟혀요,0or0,0,agent-first,1
+5,코끼리 호랑이 꼬집혀요,0or0,1,theme-first,0
+5,강아지가 차여요,1or1,0,agent-first,0
+5,원숭이가 업혀요,1or1,0,agent-first,0
+5,호랑이가 물려요,1or1,0,agent-first,0
+5,나비가 찔려요,1or1,0,agent-first,0
+5,돼지가 밟혀요,1or1,0,agent-first,0
+5,호랑이가 꼬집혀요,1or1,0,agent-first,0
+5,강아지한테 차여요,0or0,0,agent-first,1
+5,원숭이한테 업혀요,0or0,0,agent-first,1
+5,호랑이한테 물려요,0or0,0,agent-first,1
+5,나비한테 찔려요,0or0,0,agent-first,1
+5,돼지한테 밟혀요,0or0,1,theme-first,0
+5,호랑이한테 꼬집혀요,0or0,0,agent-first,1
+5,고양이 차여요,0or0,1,theme-first,0
+5,다람쥐 업혀요,0or0,0,agent-first,1
+5,사자 물려요,0or0,0,agent-first,1
+5,꿀벌 찔려요,0or0,1,theme-first,0
+5,얼룩말 밟혀요,0or0,0,agent-first,1
+5,코끼리 꼬집혀요,0or0,1,theme-first,0
+6,호랑이가 코끼리를 그려요,0or0,0,agent-first,1
+6,원숭이가 다람쥐를 던져요,0or0,0,agent-first,1
+6,꿀벌이 다람쥐를 칠해요,0or0,1,theme-first,0
+6,꿀벌이 나비를 안아요,0or0,0,agent-first,1
+6,다람쥐가 호랑이를 밀어요,0or0,0,agent-first,1
+6,개구리가 원숭이를 들어요,0or0,0,agent-first,1
+6,코끼리가 호랑이 그려요,0or0,1,theme-first,0
+6,다람쥐가 원숭이 던져요,0or0,0,agent-first,1
+6,다람쥐가 꿀벌 칠해요,0or0,0,agent-first,1
+6,나비가 꿀벌 안아요,0or0,0,agent-first,1
+6,호랑이가 다람쥐 밀어요,0or0,0,agent-first,1
+6,원숭이가 개구리 들어요,0or0,0,agent-first,1
+6,코끼리 호랑이를 그려요,0or0,1,theme-first,0
+6,다람쥐 원숭이를 던져요,0or0,0,agent-first,1
+6,다람쥐 꿀벌을 칠해요,0or0,0,agent-first,1
+6,나비 꿀벌을 안아요,0or0,1,theme-first,0
+6,호랑이 다람쥐를 밀어요,0or0,1,theme-first,0
+6,원숭이 개구리를 들어요,0or0,1,theme-first,0
+6,호랑이를 코끼리가 그려요,1or1,1,theme-first,1
+6,원숭이를 다람쥐가 던져요,1or1,1,theme-first,1
+6,꿀벌을 다람쥐가 칠해요,1or1,1,theme-first,1
+6,꿀벌을 나비가 안아요,1or1,1,theme-first,1
+6,다람쥐를 호랑이가 밀어요,1or1,0,agent-first,0
+6,개구리를 원숭이가 들어요,1or1,1,theme-first,1
+6,코끼리 호랑이가 그려요,1or1,0,agent-first,0
+6,다람쥐 원숭이가 던져요,1or1,0,agent-first,0
+6,다람쥐 꿀벌이 칠해요,1or1,0,agent-first,0
+6,나비 꿀벌이 안아요,1or1,1,theme-first,1
+6,호랑이 다람쥐가 밀어요,1or1,0,agent-first,0
+6,원숭이 개구리가 들어요,1or1,0,agent-first,0
+6,코끼리를 호랑이 그려요,1or1,1,theme-first,1
+6,다람쥐를 원숭이 던져요,1or1,1,theme-first,1
+6,다람쥐를 꿀벌 칠해요,1or1,1,theme-first,1
+6,나비를 꿀벌 안아요,1or1,1,theme-first,1
+6,호랑이를 다람쥐 밀어요,1or1,0,agent-first,0
+6,원숭이를 개구리 들어요,1or1,1,theme-first,1
+6,호랑이 코끼리 그려요 ,0or0,1,theme-first,0
+6,원숭이 다람쥐 던져요 ,0or0,1,theme-first,0
+6,꿀벌 다람쥐 칠해요 ,0or0,0,agent-first,1
+6,꿀벌 나비 안아요 ,0or0,1,theme-first,0
+6,다람쥐 호랑이 밀어요 ,0or0,0,agent-first,1
+6,개구리 원숭이 들어요 ,0or0,1,theme-first,0
+6,코끼리가 그려요,0or0,1,theme-first,0
+6,다람쥐가 던져요,0or0,1,theme-first,0
+6,다람쥐가 칠해요,0or0,0,agent-first,1
+6,나비가 안아요,0or0,0,agent-first,1
+6,호랑이가 밀어요,0or0,0,agent-first,1
+6,원숭이가 들어요,0or0,0,agent-first,1
+6,코끼리를 그려요,1or1,1,theme-first,1
+6,다람쥐를 던져요,1or1,1,theme-first,1
+6,다람쥐를 칠해요,1or1,1,theme-first,1
+6,나비를 안아요,1or1,1,theme-first,1
+6,호랑이를 밀어요,1or1,1,theme-first,1
+6,원숭이를 들어요,1or1,1,theme-first,1
+6,호랑이 그려요,0or0,1,theme-first,0
+6,원숭이 던져요,0or0,1,theme-first,0
+6,꿀벌 칠해요,0or0,1,theme-first,0
+6,꿀벌 안아요,0or0,1,theme-first,0
+6,다람쥐 밀어요,0or0,0,agent-first,1
+6,개구리 들어요,0or0,1,theme-first,0
+6,고양이가 강아지한테 차여요,1or1,0,agent-first,0
+6,다람쥐가 원숭이한테 업혀요,1or1,0,agent-first,0
+6,사자가 호랑이한테 물려요,1or1,0,agent-first,0
+6,꿀벌이 나비한테 찔려요,1or1,1,theme-first,1
+6,얼룩말이 돼지한테 밟혀요,1or1,1,theme-first,1
+6,코끼리가 호랑이한테 꼬집혀요,1or1,0,agent-first,0
+6,강아지가 고양이 차여요,1or1,0,agent-first,0
+6,원숭이가 다람쥐 업혀요,1or1,0,agent-first,0
+6,호랑이가 사자 물려요,1or1,0,agent-first,0
+6,나비가 꿀벌 찔려요,1or1,0,agent-first,0
+6,돼지가 얼룩말 밟혀요,1or1,0,agent-first,0
+6,호랑이가 코끼리 꼬집혀요,1or1,0,agent-first,0
+6,강아지 고양이한테 차여요,1or1,1,theme-first,1
+6,원숭이 다람쥐한테 업혀요,1or1,1,theme-first,1
+6,호랑이 사자한테 물려요,1or1,0,agent-first,0
+6,나비 꿀벌한테 찔려요,1or1,1,theme-first,1
+6,돼지 얼룩말한테 밟혀요,1or1,0,agent-first,0
+6,호랑이 코끼리한테 꼬집혀요,1or1,1,theme-first,1
+6,고양이한테 강아지가 차여요,0or0,0,agent-first,1
+6,다람쥐한테 원숭이가 업혀요,0or0,0,agent-first,1
+6,사자한테 호랑이가 물려요,0or0,0,agent-first,1
+6,꿀벌한테 나비가 찔려요,0or0,0,agent-first,1
+6,얼룩말한테 돼지가 밟혀요,0or0,0,agent-first,1
+6,코끼리한테 호랑이가 꼬집혀요,0or0,0,agent-first,1
+6,강아지 고양이가 차여요,0or0,0,agent-first,1
+6,원숭이 다람쥐가 업혀요,0or0,1,theme-first,0
+6,호랑이 사자가 물려요,0or0,0,agent-first,1
+6,나비 꿀벌이 찔려요,0or0,1,theme-first,0
+6,돼지 얼룩말이 밟혀요,0or0,1,theme-first,0
+6,호랑이 코끼리가 꼬집혀요,0or0,1,theme-first,0
+6,강아지한테 고양이 차여요,0or0,1,theme-first,0
+6,원숭이한테 다람쥐 업혀요,0or0,0,agent-first,1
+6,호랑이한테 사자 물려요,0or0,0,agent-first,1
+6,나비한테 꿀벌 찔려요,0or0,1,theme-first,0
+6,돼지한테 얼룩말 밟혀요,0or0,1,theme-first,0
+6,호랑이한테 코끼리 꼬집혀요,0or0,0,agent-first,1
+6,고양이 강아지 차여요,0or0,1,theme-first,0
+6,다람쥐 원숭이 업혀요,0or0,0,agent-first,1
+6,사자 호랑이 물려요,0or0,1,theme-first,0
+6,꿀벌 나비 찔려요,0or0,1,theme-first,0
+6,얼룩말 돼지 밟혀요,0or0,1,theme-first,0
+6,코끼리 호랑이 꼬집혀요,0or0,1,theme-first,0
+6,강아지가 차여요,1or1,0,agent-first,0
+6,원숭이가 업혀요,1or1,0,agent-first,0
+6,호랑이가 물려요,1or1,0,agent-first,0
+6,나비가 찔려요,1or1,0,agent-first,0
+6,돼지가 밟혀요,1or1,0,agent-first,0
+6,호랑이가 꼬집혀요,1or1,0,agent-first,0
+6,강아지한테 차여요,0or0,1,theme-first,0
+6,원숭이한테 업혀요,0or0,0,agent-first,1
+6,호랑이한테 물려요,0or0,0,agent-first,1
+6,나비한테 찔려요,0or0,1,theme-first,0
+6,돼지한테 밟혀요,0or0,1,theme-first,0
+6,호랑이한테 꼬집혀요,0or0,0,agent-first,1
+6,고양이 차여요,0or0,1,theme-first,0
+6,다람쥐 업혀요,0or0,0,agent-first,1
+6,사자 물려요,0or0,1,theme-first,0
+6,꿀벌 찔려요,0or0,1,theme-first,0
+6,얼룩말 밟혀요,0or0,1,theme-first,0
+6,코끼리 꼬집혀요,0or0,1,theme-first,0
+7,호랑이가 코끼리를 그려요,0or0,0,agent-first,1
+7,원숭이가 다람쥐를 던져요,0or0,0,agent-first,1
+7,꿀벌이 다람쥐를 칠해요,0or0,0,agent-first,1
+7,꿀벌이 나비를 안아요,0or0,0,agent-first,1
+7,다람쥐가 호랑이를 밀어요,0or0,0,agent-first,1
+7,개구리가 원숭이를 들어요,0or0,0,agent-first,1
+7,코끼리가 호랑이 그려요,0or0,0,agent-first,1
+7,다람쥐가 원숭이 던져요,0or0,0,agent-first,1
+7,다람쥐가 꿀벌 칠해요,0or0,0,agent-first,1
+7,나비가 꿀벌 안아요,0or0,0,agent-first,1
+7,호랑이가 다람쥐 밀어요,0or0,0,agent-first,1
+7,원숭이가 개구리 들어요,0or0,0,agent-first,1
+7,코끼리 호랑이를 그려요,0or0,1,theme-first,0
+7,다람쥐 원숭이를 던져요,0or0,0,agent-first,1
+7,다람쥐 꿀벌을 칠해요,0or0,0,agent-first,1
+7,나비 꿀벌을 안아요,0or0,1,theme-first,0
+7,호랑이 다람쥐를 밀어요,0or0,1,theme-first,0
+7,원숭이 개구리를 들어요,0or0,1,theme-first,0
+7,호랑이를 코끼리가 그려요,1or1,1,theme-first,1
+7,원숭이를 다람쥐가 던져요,1or1,1,theme-first,1
+7,꿀벌을 다람쥐가 칠해요,1or1,1,theme-first,1
+7,꿀벌을 나비가 안아요,1or1,1,theme-first,1
+7,다람쥐를 호랑이가 밀어요,1or1,0,agent-first,0
+7,개구리를 원숭이가 들어요,1or1,0,agent-first,0
+7,코끼리 호랑이가 그려요,1or1,1,theme-first,1
+7,다람쥐 원숭이가 던져요,1or1,0,agent-first,0
+7,다람쥐 꿀벌이 칠해요,1or1,0,agent-first,0
+7,나비 꿀벌이 안아요,1or1,1,theme-first,1
+7,호랑이 다람쥐가 밀어요,1or1,0,agent-first,0
+7,원숭이 개구리가 들어요,1or1,0,agent-first,0
+7,코끼리를 호랑이 그려요,1or1,1,theme-first,1
+7,다람쥐를 원숭이 던져요,1or1,1,theme-first,1
+7,다람쥐를 꿀벌 칠해요,1or1,1,theme-first,1
+7,나비를 꿀벌 안아요,1or1,1,theme-first,1
+7,호랑이를 다람쥐 밀어요,1or1,0,agent-first,0
+7,원숭이를 개구리 들어요,1or1,1,theme-first,1
+7,호랑이 코끼리 그려요 ,0or0,1,theme-first,0
+7,원숭이 다람쥐 던져요 ,0or0,0,agent-first,1
+7,꿀벌 다람쥐 칠해요 ,0or0,0,agent-first,1
+7,꿀벌 나비 안아요 ,0or0,1,theme-first,0
+7,다람쥐 호랑이 밀어요 ,0or0,0,agent-first,1
+7,개구리 원숭이 들어요 ,0or0,1,theme-first,0
+7,코끼리가 그려요,0or0,1,theme-first,0
+7,다람쥐가 던져요,0or0,0,agent-first,1
+7,다람쥐가 칠해요,0or0,0,agent-first,1
+7,나비가 안아요,0or0,0,agent-first,1
+7,호랑이가 밀어요,0or0,0,agent-first,1
+7,원숭이가 들어요,0or0,0,agent-first,1
+7,코끼리를 그려요,1or1,1,theme-first,1
+7,다람쥐를 던져요,1or1,1,theme-first,1
+7,다람쥐를 칠해요,1or1,1,theme-first,1
+7,나비를 안아요,1or1,1,theme-first,1
+7,호랑이를 밀어요,1or1,1,theme-first,1
+7,원숭이를 들어요,1or1,1,theme-first,1
+7,호랑이 그려요,0or0,1,theme-first,0
+7,원숭이 던져요,0or0,1,theme-first,0
+7,꿀벌 칠해요,0or0,1,theme-first,0
+7,꿀벌 안아요,0or0,1,theme-first,0
+7,다람쥐 밀어요,0or0,0,agent-first,1
+7,개구리 들어요,0or0,1,theme-first,0
+7,고양이가 강아지한테 차여요,1or1,0,agent-first,0
+7,다람쥐가 원숭이한테 업혀요,1or1,0,agent-first,0
+7,사자가 호랑이한테 물려요,1or1,0,agent-first,0
+7,꿀벌이 나비한테 찔려요,1or1,0,agent-first,0
+7,얼룩말이 돼지한테 밟혀요,1or1,1,theme-first,1
+7,코끼리가 호랑이한테 꼬집혀요,1or1,0,agent-first,0
+7,강아지가 고양이 차여요,1or1,0,agent-first,0
+7,원숭이가 다람쥐 업혀요,1or1,0,agent-first,0
+7,호랑이가 사자 물려요,1or1,0,agent-first,0
+7,나비가 꿀벌 찔려요,1or1,0,agent-first,0
+7,돼지가 얼룩말 밟혀요,1or1,0,agent-first,0
+7,호랑이가 코끼리 꼬집혀요,1or1,0,agent-first,0
+7,강아지 고양이한테 차여요,1or1,1,theme-first,1
+7,원숭이 다람쥐한테 업혀요,1or1,1,theme-first,1
+7,호랑이 사자한테 물려요,1or1,0,agent-first,0
+7,나비 꿀벌한테 찔려요,1or1,1,theme-first,1
+7,돼지 얼룩말한테 밟혀요,1or1,0,agent-first,0
+7,호랑이 코끼리한테 꼬집혀요,1or1,1,theme-first,1
+7,고양이한테 강아지가 차여요,0or0,0,agent-first,1
+7,다람쥐한테 원숭이가 업혀요,0or0,0,agent-first,1
+7,사자한테 호랑이가 물려요,0or0,0,agent-first,1
+7,꿀벌한테 나비가 찔려요,0or0,0,agent-first,1
+7,얼룩말한테 돼지가 밟혀요,0or0,0,agent-first,1
+7,코끼리한테 호랑이가 꼬집혀요,0or0,0,agent-first,1
+7,강아지 고양이가 차여요,0or0,0,agent-first,1
+7,원숭이 다람쥐가 업혀요,0or0,1,theme-first,0
+7,호랑이 사자가 물려요,0or0,0,agent-first,1
+7,나비 꿀벌이 찔려요,0or0,1,theme-first,0
+7,돼지 얼룩말이 밟혀요,0or0,1,theme-first,0
+7,호랑이 코끼리가 꼬집혀요,0or0,0,agent-first,1
+7,강아지한테 고양이 차여요,0or0,0,agent-first,1
+7,원숭이한테 다람쥐 업혀요,0or0,0,agent-first,1
+7,호랑이한테 사자 물려요,0or0,0,agent-first,1
+7,나비한테 꿀벌 찔려요,0or0,1,theme-first,0
+7,돼지한테 얼룩말 밟혀요,0or0,1,theme-first,0
+7,호랑이한테 코끼리 꼬집혀요,0or0,0,agent-first,1
+7,고양이 강아지 차여요,0or0,1,theme-first,0
+7,다람쥐 원숭이 업혀요,0or0,0,agent-first,1
+7,사자 호랑이 물려요,0or0,1,theme-first,0
+7,꿀벌 나비 찔려요,0or0,1,theme-first,0
+7,얼룩말 돼지 밟혀요,0or0,0,agent-first,1
+7,코끼리 호랑이 꼬집혀요,0or0,1,theme-first,0
+7,강아지가 차여요,1or1,0,agent-first,0
+7,원숭이가 업혀요,1or1,0,agent-first,0
+7,호랑이가 물려요,1or1,0,agent-first,0
+7,나비가 찔려요,1or1,0,agent-first,0
+7,돼지가 밟혀요,1or1,0,agent-first,0
+7,호랑이가 꼬집혀요,1or1,0,agent-first,0
+7,강아지한테 차여요,0or0,0,agent-first,1
+7,원숭이한테 업혀요,0or0,0,agent-first,1
+7,호랑이한테 물려요,0or0,0,agent-first,1
+7,나비한테 찔려요,0or0,1,theme-first,0
+7,돼지한테 밟혀요,0or0,1,theme-first,0
+7,호랑이한테 꼬집혀요,0or0,0,agent-first,1
+7,고양이 차여요,0or0,1,theme-first,0
+7,다람쥐 업혀요,0or0,0,agent-first,1
+7,사자 물려요,0or0,1,theme-first,0
+7,꿀벌 찔려요,0or0,1,theme-first,0
+7,얼룩말 밟혀요,0or0,1,theme-first,0
+7,코끼리 꼬집혀요,0or0,1,theme-first,0
+8,호랑이가 코끼리를 그려요,0or0,0,agent-first,1
+8,원숭이가 다람쥐를 던져요,0or0,0,agent-first,1
+8,꿀벌이 다람쥐를 칠해요,0or0,0,agent-first,1
+8,꿀벌이 나비를 안아요,0or0,0,agent-first,1
+8,다람쥐가 호랑이를 밀어요,0or0,0,agent-first,1
+8,개구리가 원숭이를 들어요,0or0,0,agent-first,1
+8,코끼리가 호랑이 그려요,0or0,0,agent-first,1
+8,다람쥐가 원숭이 던져요,0or0,0,agent-first,1
+8,다람쥐가 꿀벌 칠해요,0or0,0,agent-first,1
+8,나비가 꿀벌 안아요,0or0,0,agent-first,1
+8,호랑이가 다람쥐 밀어요,0or0,0,agent-first,1
+8,원숭이가 개구리 들어요,0or0,0,agent-first,1
+8,코끼리 호랑이를 그려요,0or0,1,theme-first,0
+8,다람쥐 원숭이를 던져요,0or0,0,agent-first,1
+8,다람쥐 꿀벌을 칠해요,0or0,0,agent-first,1
+8,나비 꿀벌을 안아요,0or0,1,theme-first,0
+8,호랑이 다람쥐를 밀어요,0or0,0,agent-first,1
+8,원숭이 개구리를 들어요,0or0,1,theme-first,0
+8,호랑이를 코끼리가 그려요,1or1,1,theme-first,1
+8,원숭이를 다람쥐가 던져요,1or1,1,theme-first,1
+8,꿀벌을 다람쥐가 칠해요,1or1,1,theme-first,1
+8,꿀벌을 나비가 안아요,1or1,0,agent-first,0
+8,다람쥐를 호랑이가 밀어요,1or1,0,agent-first,0
+8,개구리를 원숭이가 들어요,1or1,0,agent-first,0
+8,코끼리 호랑이가 그려요,1or1,1,theme-first,1
+8,다람쥐 원숭이가 던져요,1or1,0,agent-first,0
+8,다람쥐 꿀벌이 칠해요,1or1,0,agent-first,0
+8,나비 꿀벌이 안아요,1or1,1,theme-first,1
+8,호랑이 다람쥐가 밀어요,1or1,0,agent-first,0
+8,원숭이 개구리가 들어요,1or1,0,agent-first,0
+8,코끼리를 호랑이 그려요,1or1,1,theme-first,1
+8,다람쥐를 원숭이 던져요,1or1,1,theme-first,1
+8,다람쥐를 꿀벌 칠해요,1or1,1,theme-first,1
+8,나비를 꿀벌 안아요,1or1,1,theme-first,1
+8,호랑이를 다람쥐 밀어요,1or1,0,agent-first,0
+8,원숭이를 개구리 들어요,1or1,1,theme-first,1
+8,호랑이 코끼리 그려요 ,0or0,1,theme-first,0
+8,원숭이 다람쥐 던져요 ,0or0,1,theme-first,0
+8,꿀벌 다람쥐 칠해요 ,0or0,0,agent-first,1
+8,꿀벌 나비 안아요 ,0or0,1,theme-first,0
+8,다람쥐 호랑이 밀어요 ,0or0,0,agent-first,1
+8,개구리 원숭이 들어요 ,0or0,1,theme-first,0
+8,코끼리가 그려요,0or0,0,agent-first,1
+8,다람쥐가 던져요,0or0,0,agent-first,1
+8,다람쥐가 칠해요,0or0,0,agent-first,1
+8,나비가 안아요,0or0,0,agent-first,1
+8,호랑이가 밀어요,0or0,0,agent-first,1
+8,원숭이가 들어요,0or0,0,agent-first,1
+8,코끼리를 그려요,1or1,1,theme-first,1
+8,다람쥐를 던져요,1or1,1,theme-first,1
+8,다람쥐를 칠해요,1or1,1,theme-first,1
+8,나비를 안아요,1or1,1,theme-first,1
+8,호랑이를 밀어요,1or1,1,theme-first,1
+8,원숭이를 들어요,1or1,1,theme-first,1
+8,호랑이 그려요,0or0,1,theme-first,0
+8,원숭이 던져요,0or0,1,theme-first,0
+8,꿀벌 칠해요,0or0,1,theme-first,0
+8,꿀벌 안아요,0or0,1,theme-first,0
+8,다람쥐 밀어요,0or0,0,agent-first,1
+8,개구리 들어요,0or0,1,theme-first,0
+8,고양이가 강아지한테 차여요,1or1,0,agent-first,0
+8,다람쥐가 원숭이한테 업혀요,1or1,0,agent-first,0
+8,사자가 호랑이한테 물려요,1or1,0,agent-first,0
+8,꿀벌이 나비한테 찔려요,1or1,0,agent-first,0
+8,얼룩말이 돼지한테 밟혀요,1or1,1,theme-first,1
+8,코끼리가 호랑이한테 꼬집혀요,1or1,0,agent-first,0
+8,강아지가 고양이 차여요,1or1,0,agent-first,0
+8,원숭이가 다람쥐 업혀요,1or1,0,agent-first,0
+8,호랑이가 사자 물려요,1or1,0,agent-first,0
+8,나비가 꿀벌 찔려요,1or1,0,agent-first,0
+8,돼지가 얼룩말 밟혀요,1or1,0,agent-first,0
+8,호랑이가 코끼리 꼬집혀요,1or1,0,agent-first,0
+8,강아지 고양이한테 차여요,1or1,0,agent-first,0
+8,원숭이 다람쥐한테 업혀요,1or1,0,agent-first,0
+8,호랑이 사자한테 물려요,1or1,0,agent-first,0
+8,나비 꿀벌한테 찔려요,1or1,1,theme-first,1
+8,돼지 얼룩말한테 밟혀요,1or1,0,agent-first,0
+8,호랑이 코끼리한테 꼬집혀요,1or1,0,agent-first,0
+8,고양이한테 강아지가 차여요,0or0,0,agent-first,1
+8,다람쥐한테 원숭이가 업혀요,0or0,0,agent-first,1
+8,사자한테 호랑이가 물려요,0or0,0,agent-first,1
+8,꿀벌한테 나비가 찔려요,0or0,0,agent-first,1
+8,얼룩말한테 돼지가 밟혀요,0or0,0,agent-first,1
+8,코끼리한테 호랑이가 꼬집혀요,0or0,0,agent-first,1
+8,강아지 고양이가 차여요,0or0,0,agent-first,1
+8,원숭이 다람쥐가 업혀요,0or0,1,theme-first,0
+8,호랑이 사자가 물려요,0or0,0,agent-first,1
+8,나비 꿀벌이 찔려요,0or0,1,theme-first,0
+8,돼지 얼룩말이 밟혀요,0or0,1,theme-first,0
+8,호랑이 코끼리가 꼬집혀요,0or0,0,agent-first,1
+8,강아지한테 고양이 차여요,0or0,0,agent-first,1
+8,원숭이한테 다람쥐 업혀요,0or0,0,agent-first,1
+8,호랑이한테 사자 물려요,0or0,0,agent-first,1
+8,나비한테 꿀벌 찔려요,0or0,1,theme-first,0
+8,돼지한테 얼룩말 밟혀요,0or0,1,theme-first,0
+8,호랑이한테 코끼리 꼬집혀요,0or0,0,agent-first,1
+8,고양이 강아지 차여요,0or0,1,theme-first,0
+8,다람쥐 원숭이 업혀요,0or0,0,agent-first,1
+8,사자 호랑이 물려요,0or0,0,agent-first,1
+8,꿀벌 나비 찔려요,0or0,1,theme-first,0
+8,얼룩말 돼지 밟혀요,0or0,0,agent-first,1
+8,코끼리 호랑이 꼬집혀요,0or0,1,theme-first,0
+8,강아지가 차여요,1or1,0,agent-first,0
+8,원숭이가 업혀요,1or1,0,agent-first,0
+8,호랑이가 물려요,1or1,0,agent-first,0
+8,나비가 찔려요,1or1,0,agent-first,0
+8,돼지가 밟혀요,1or1,0,agent-first,0
+8,호랑이가 꼬집혀요,1or1,0,agent-first,0
+8,강아지한테 차여요,0or0,0,agent-first,1
+8,원숭이한테 업혀요,0or0,0,agent-first,1
+8,호랑이한테 물려요,0or0,0,agent-first,1
+8,나비한테 찔려요,0or0,1,theme-first,0
+8,돼지한테 밟혀요,0or0,1,theme-first,0
+8,호랑이한테 꼬집혀요,0or0,0,agent-first,1
+8,고양이 차여요,0or0,1,theme-first,0
+8,다람쥐 업혀요,0or0,0,agent-first,1
+8,사자 물려요,0or0,1,theme-first,0
+8,꿀벌 찔려요,0or0,1,theme-first,0
+8,얼룩말 밟혀요,0or0,0,agent-first,1
+8,코끼리 꼬집혀요,0or0,1,theme-first,0
+9,호랑이가 코끼리를 그려요,0or0,0,agent-first,1
+9,원숭이가 다람쥐를 던져요,0or0,0,agent-first,1
+9,꿀벌이 다람쥐를 칠해요,0or0,0,agent-first,1
+9,꿀벌이 나비를 안아요,0or0,0,agent-first,1
+9,다람쥐가 호랑이를 밀어요,0or0,0,agent-first,1
+9,개구리가 원숭이를 들어요,0or0,0,agent-first,1
+9,코끼리가 호랑이 그려요,0or0,0,agent-first,1
+9,다람쥐가 원숭이 던져요,0or0,0,agent-first,1
+9,다람쥐가 꿀벌 칠해요,0or0,0,agent-first,1
+9,나비가 꿀벌 안아요,0or0,0,agent-first,1
+9,호랑이가 다람쥐 밀어요,0or0,0,agent-first,1
+9,원숭이가 개구리 들어요,0or0,0,agent-first,1
+9,코끼리 호랑이를 그려요,0or0,1,theme-first,0
+9,다람쥐 원숭이를 던져요,0or0,0,agent-first,1
+9,다람쥐 꿀벌을 칠해요,0or0,0,agent-first,1
+9,나비 꿀벌을 안아요,0or0,1,theme-first,0
+9,호랑이 다람쥐를 밀어요,0or0,0,agent-first,1
+9,원숭이 개구리를 들어요,0or0,1,theme-first,0
+9,호랑이를 코끼리가 그려요,1or1,1,theme-first,1
+9,원숭이를 다람쥐가 던져요,1or1,1,theme-first,1
+9,꿀벌을 다람쥐가 칠해요,1or1,1,theme-first,1
+9,꿀벌을 나비가 안아요,1or1,0,agent-first,0
+9,다람쥐를 호랑이가 밀어요,1or1,0,agent-first,0
+9,개구리를 원숭이가 들어요,1or1,1,theme-first,1
+9,코끼리 호랑이가 그려요,1or1,1,theme-first,1
+9,다람쥐 원숭이가 던져요,1or1,0,agent-first,0
+9,다람쥐 꿀벌이 칠해요,1or1,0,agent-first,0
+9,나비 꿀벌이 안아요,1or1,1,theme-first,1
+9,호랑이 다람쥐가 밀어요,1or1,0,agent-first,0
+9,원숭이 개구리가 들어요,1or1,0,agent-first,0
+9,코끼리를 호랑이 그려요,1or1,1,theme-first,1
+9,다람쥐를 원숭이 던져요,1or1,1,theme-first,1
+9,다람쥐를 꿀벌 칠해요,1or1,1,theme-first,1
+9,나비를 꿀벌 안아요,1or1,1,theme-first,1
+9,호랑이를 다람쥐 밀어요,1or1,0,agent-first,0
+9,원숭이를 개구리 들어요,1or1,1,theme-first,1
+9,호랑이 코끼리 그려요 ,0or0,1,theme-first,0
+9,원숭이 다람쥐 던져요 ,0or0,1,theme-first,0
+9,꿀벌 다람쥐 칠해요 ,0or0,0,agent-first,1
+9,꿀벌 나비 안아요 ,0or0,1,theme-first,0
+9,다람쥐 호랑이 밀어요 ,0or0,0,agent-first,1
+9,개구리 원숭이 들어요 ,0or0,1,theme-first,0
+9,코끼리가 그려요,0or0,1,theme-first,0
+9,다람쥐가 던져요,0or0,0,agent-first,1
+9,다람쥐가 칠해요,0or0,0,agent-first,1
+9,나비가 안아요,0or0,0,agent-first,1
+9,호랑이가 밀어요,0or0,0,agent-first,1
+9,원숭이가 들어요,0or0,0,agent-first,1
+9,코끼리를 그려요,1or1,1,theme-first,1
+9,다람쥐를 던져요,1or1,1,theme-first,1
+9,다람쥐를 칠해요,1or1,1,theme-first,1
+9,나비를 안아요,1or1,1,theme-first,1
+9,호랑이를 밀어요,1or1,1,theme-first,1
+9,원숭이를 들어요,1or1,1,theme-first,1
+9,호랑이 그려요,0or0,1,theme-first,0
+9,원숭이 던져요,0or0,1,theme-first,0
+9,꿀벌 칠해요,0or0,1,theme-first,0
+9,꿀벌 안아요,0or0,1,theme-first,0
+9,다람쥐 밀어요,0or0,0,agent-first,1
+9,개구리 들어요,0or0,1,theme-first,0
+9,고양이가 강아지한테 차여요,1or1,0,agent-first,0
+9,다람쥐가 원숭이한테 업혀요,1or1,0,agent-first,0
+9,사자가 호랑이한테 물려요,1or1,0,agent-first,0
+9,꿀벌이 나비한테 찔려요,1or1,0,agent-first,0
+9,얼룩말이 돼지한테 밟혀요,1or1,1,theme-first,1
+9,코끼리가 호랑이한테 꼬집혀요,1or1,0,agent-first,0
+9,강아지가 고양이 차여요,1or1,0,agent-first,0
+9,원숭이가 다람쥐 업혀요,1or1,0,agent-first,0
+9,호랑이가 사자 물려요,1or1,0,agent-first,0
+9,나비가 꿀벌 찔려요,1or1,0,agent-first,0
+9,돼지가 얼룩말 밟혀요,1or1,0,agent-first,0
+9,호랑이가 코끼리 꼬집혀요,1or1,0,agent-first,0
+9,강아지 고양이한테 차여요,1or1,1,theme-first,1
+9,원숭이 다람쥐한테 업혀요,1or1,1,theme-first,1
+9,호랑이 사자한테 물려요,1or1,0,agent-first,0
+9,나비 꿀벌한테 찔려요,1or1,1,theme-first,1
+9,돼지 얼룩말한테 밟혀요,1or1,0,agent-first,0
+9,호랑이 코끼리한테 꼬집혀요,1or1,0,agent-first,0
+9,고양이한테 강아지가 차여요,0or0,0,agent-first,1
+9,다람쥐한테 원숭이가 업혀요,0or0,0,agent-first,1
+9,사자한테 호랑이가 물려요,0or0,0,agent-first,1
+9,꿀벌한테 나비가 찔려요,0or0,0,agent-first,1
+9,얼룩말한테 돼지가 밟혀요,0or0,0,agent-first,1
+9,코끼리한테 호랑이가 꼬집혀요,0or0,0,agent-first,1
+9,강아지 고양이가 차여요,0or0,0,agent-first,1
+9,원숭이 다람쥐가 업혀요,0or0,1,theme-first,0
+9,호랑이 사자가 물려요,0or0,0,agent-first,1
+9,나비 꿀벌이 찔려요,0or0,1,theme-first,0
+9,돼지 얼룩말이 밟혀요,0or0,1,theme-first,0
+9,호랑이 코끼리가 꼬집혀요,0or0,0,agent-first,1
+9,강아지한테 고양이 차여요,0or0,1,theme-first,0
+9,원숭이한테 다람쥐 업혀요,0or0,0,agent-first,1
+9,호랑이한테 사자 물려요,0or0,0,agent-first,1
+9,나비한테 꿀벌 찔려요,0or0,1,theme-first,0
+9,돼지한테 얼룩말 밟혀요,0or0,1,theme-first,0
+9,호랑이한테 코끼리 꼬집혀요,0or0,0,agent-first,1
+9,고양이 강아지 차여요,0or0,1,theme-first,0
+9,다람쥐 원숭이 업혀요,0or0,0,agent-first,1
+9,사자 호랑이 물려요,0or0,0,agent-first,1
+9,꿀벌 나비 찔려요,0or0,1,theme-first,0
+9,얼룩말 돼지 밟혀요,0or0,0,agent-first,1
+9,코끼리 호랑이 꼬집혀요,0or0,1,theme-first,0
+9,강아지가 차여요,1or1,0,agent-first,0
+9,원숭이가 업혀요,1or1,0,agent-first,0
+9,호랑이가 물려요,1or1,0,agent-first,0
+9,나비가 찔려요,1or1,0,agent-first,0
+9,돼지가 밟혀요,1or1,0,agent-first,0
+9,호랑이가 꼬집혀요,1or1,0,agent-first,0
+9,강아지한테 차여요,0or0,1,theme-first,0
+9,원숭이한테 업혀요,0or0,1,theme-first,0
+9,호랑이한테 물려요,0or0,0,agent-first,1
+9,나비한테 찔려요,0or0,1,theme-first,0
+9,돼지한테 밟혀요,0or0,1,theme-first,0
+9,호랑이한테 꼬집혀요,0or0,0,agent-first,1
+9,고양이 차여요,0or0,1,theme-first,0
+9,다람쥐 업혀요,0or0,0,agent-first,1
+9,사자 물려요,0or0,1,theme-first,0
+9,꿀벌 찔려요,0or0,1,theme-first,0
+9,얼룩말 밟혀요,0or0,1,theme-first,0
+9,코끼리 꼬집혀요,0or0,1,theme-first,0
+10,호랑이가 코끼리를 그려요,0or0,0,agent-first,1
+10,원숭이가 다람쥐를 던져요,0or0,0,agent-first,1
+10,꿀벌이 다람쥐를 칠해요,0or0,0,agent-first,1
+10,꿀벌이 나비를 안아요,0or0,0,agent-first,1
+10,다람쥐가 호랑이를 밀어요,0or0,0,agent-first,1
+10,개구리가 원숭이를 들어요,0or0,0,agent-first,1
+10,코끼리가 호랑이 그려요,0or0,0,agent-first,1
+10,다람쥐가 원숭이 던져요,0or0,0,agent-first,1
+10,다람쥐가 꿀벌 칠해요,0or0,0,agent-first,1
+10,나비가 꿀벌 안아요,0or0,0,agent-first,1
+10,호랑이가 다람쥐 밀어요,0or0,0,agent-first,1
+10,원숭이가 개구리 들어요,0or0,0,agent-first,1
+10,코끼리 호랑이를 그려요,0or0,1,theme-first,0
+10,다람쥐 원숭이를 던져요,0or0,0,agent-first,1
+10,다람쥐 꿀벌을 칠해요,0or0,0,agent-first,1
+10,나비 꿀벌을 안아요,0or0,1,theme-first,0
+10,호랑이 다람쥐를 밀어요,0or0,0,agent-first,1
+10,원숭이 개구리를 들어요,0or0,1,theme-first,0
+10,호랑이를 코끼리가 그려요,1or1,1,theme-first,1
+10,원숭이를 다람쥐가 던져요,1or1,1,theme-first,1
+10,꿀벌을 다람쥐가 칠해요,1or1,1,theme-first,1
+10,꿀벌을 나비가 안아요,1or1,0,agent-first,0
+10,다람쥐를 호랑이가 밀어요,1or1,0,agent-first,0
+10,개구리를 원숭이가 들어요,1or1,0,agent-first,0
+10,코끼리 호랑이가 그려요,1or1,1,theme-first,1
+10,다람쥐 원숭이가 던져요,1or1,0,agent-first,0
+10,다람쥐 꿀벌이 칠해요,1or1,0,agent-first,0
+10,나비 꿀벌이 안아요,1or1,1,theme-first,1
+10,호랑이 다람쥐가 밀어요,1or1,0,agent-first,0
+10,원숭이 개구리가 들어요,1or1,0,agent-first,0
+10,코끼리를 호랑이 그려요,1or1,1,theme-first,1
+10,다람쥐를 원숭이 던져요,1or1,1,theme-first,1
+10,다람쥐를 꿀벌 칠해요,1or1,1,theme-first,1
+10,나비를 꿀벌 안아요,1or1,1,theme-first,1
+10,호랑이를 다람쥐 밀어요,1or1,0,agent-first,0
+10,원숭이를 개구리 들어요,1or1,1,theme-first,1
+10,호랑이 코끼리 그려요 ,0or0,1,theme-first,0
+10,원숭이 다람쥐 던져요 ,0or0,1,theme-first,0
+10,꿀벌 다람쥐 칠해요 ,0or0,0,agent-first,1
+10,꿀벌 나비 안아요 ,0or0,1,theme-first,0
+10,다람쥐 호랑이 밀어요 ,0or0,0,agent-first,1
+10,개구리 원숭이 들어요 ,0or0,1,theme-first,0
+10,코끼리가 그려요,0or0,1,theme-first,0
+10,다람쥐가 던져요,0or0,0,agent-first,1
+10,다람쥐가 칠해요,0or0,0,agent-first,1
+10,나비가 안아요,0or0,0,agent-first,1
+10,호랑이가 밀어요,0or0,0,agent-first,1
+10,원숭이가 들어요,0or0,0,agent-first,1
+10,코끼리를 그려요,1or1,1,theme-first,1
+10,다람쥐를 던져요,1or1,1,theme-first,1
+10,다람쥐를 칠해요,1or1,1,theme-first,1
+10,나비를 안아요,1or1,1,theme-first,1
+10,호랑이를 밀어요,1or1,1,theme-first,1
+10,원숭이를 들어요,1or1,1,theme-first,1
+10,호랑이 그려요,0or0,1,theme-first,0
+10,원숭이 던져요,0or0,1,theme-first,0
+10,꿀벌 칠해요,0or0,1,theme-first,0
+10,꿀벌 안아요,0or0,1,theme-first,0
+10,다람쥐 밀어요,0or0,0,agent-first,1
+10,개구리 들어요,0or0,1,theme-first,0
+10,고양이가 강아지한테 차여요,1or1,0,agent-first,0
+10,다람쥐가 원숭이한테 업혀요,1or1,0,agent-first,0
+10,사자가 호랑이한테 물려요,1or1,0,agent-first,0
+10,꿀벌이 나비한테 찔려요,1or1,0,agent-first,0
+10,얼룩말이 돼지한테 밟혀요,1or1,1,theme-first,1
+10,코끼리가 호랑이한테 꼬집혀요,1or1,0,agent-first,0
+10,강아지가 고양이 차여요,1or1,0,agent-first,0
+10,원숭이가 다람쥐 업혀요,1or1,0,agent-first,0
+10,호랑이가 사자 물려요,1or1,0,agent-first,0
+10,나비가 꿀벌 찔려요,1or1,0,agent-first,0
+10,돼지가 얼룩말 밟혀요,1or1,0,agent-first,0
+10,호랑이가 코끼리 꼬집혀요,1or1,0,agent-first,0
+10,강아지 고양이한테 차여요,1or1,1,theme-first,1
+10,원숭이 다람쥐한테 업혀요,1or1,1,theme-first,1
+10,호랑이 사자한테 물려요,1or1,0,agent-first,0
+10,나비 꿀벌한테 찔려요,1or1,1,theme-first,1
+10,돼지 얼룩말한테 밟혀요,1or1,0,agent-first,0
+10,호랑이 코끼리한테 꼬집혀요,1or1,0,agent-first,0
+10,고양이한테 강아지가 차여요,0or0,0,agent-first,1
+10,다람쥐한테 원숭이가 업혀요,0or0,0,agent-first,1
+10,사자한테 호랑이가 물려요,0or0,0,agent-first,1
+10,꿀벌한테 나비가 찔려요,0or0,0,agent-first,1
+10,얼룩말한테 돼지가 밟혀요,0or0,0,agent-first,1
+10,코끼리한테 호랑이가 꼬집혀요,0or0,0,agent-first,1
+10,강아지 고양이가 차여요,0or0,0,agent-first,1
+10,원숭이 다람쥐가 업혀요,0or0,1,theme-first,0
+10,호랑이 사자가 물려요,0or0,0,agent-first,1
+10,나비 꿀벌이 찔려요,0or0,1,theme-first,0
+10,돼지 얼룩말이 밟혀요,0or0,1,theme-first,0
+10,호랑이 코끼리가 꼬집혀요,0or0,0,agent-first,1
+10,강아지한테 고양이 차여요,0or0,1,theme-first,0
+10,원숭이한테 다람쥐 업혀요,0or0,0,agent-first,1
+10,호랑이한테 사자 물려요,0or0,0,agent-first,1
+10,나비한테 꿀벌 찔려요,0or0,1,theme-first,0
+10,돼지한테 얼룩말 밟혀요,0or0,1,theme-first,0
+10,호랑이한테 코끼리 꼬집혀요,0or0,0,agent-first,1
+10,고양이 강아지 차여요,0or0,1,theme-first,0
+10,다람쥐 원숭이 업혀요,0or0,0,agent-first,1
+10,사자 호랑이 물려요,0or0,0,agent-first,1
+10,꿀벌 나비 찔려요,0or0,1,theme-first,0
+10,얼룩말 돼지 밟혀요,0or0,0,agent-first,1
+10,코끼리 호랑이 꼬집혀요,0or0,1,theme-first,0
+10,강아지가 차여요,1or1,0,agent-first,0
+10,원숭이가 업혀요,1or1,0,agent-first,0
+10,호랑이가 물려요,1or1,0,agent-first,0
+10,나비가 찔려요,1or1,0,agent-first,0
+10,돼지가 밟혀요,1or1,0,agent-first,0
+10,호랑이가 꼬집혀요,1or1,0,agent-first,0
+10,강아지한테 차여요,0or0,0,agent-first,1
+10,원숭이한테 업혀요,0or0,1,theme-first,0
+10,호랑이한테 물려요,0or0,0,agent-first,1
+10,나비한테 찔려요,0or0,1,theme-first,0
+10,돼지한테 밟혀요,0or0,1,theme-first,0
+10,호랑이한테 꼬집혀요,0or0,0,agent-first,1
+10,고양이 차여요,0or0,1,theme-first,0
+10,다람쥐 업혀요,0or0,0,agent-first,1
+10,사자 물려요,0or0,1,theme-first,0
+10,꿀벌 찔려요,0or0,1,theme-first,0
+10,얼룩말 밟혀요,0or0,1,theme-first,0
+10,코끼리 꼬집혀요,0or0,1,theme-first,0
